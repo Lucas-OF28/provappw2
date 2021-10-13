@@ -1,0 +1,7 @@
+[
+    {"nome": "Kariboh", "tipo": "demonio", "ATK":"300", "DEF":"200", "nivel": "1"},
+    {"nome": "Cyber Dragon", "tipo": "machine", "ATK":"2100", "DEF":"1600", "nivel": "5"},
+    {"nome": "Blue-Eyes White Dragon", "tipo": "dragao", "ATK":"3000", "DEF":"2500", "nivel": "8"},
+    {"nome": "Dark Magician", "tipo": "mago", "ATK":"2500", "DEF":"2100", "nivel": "7"},
+    {"nome": "Red-Eyes Black Dragon", "tipo": "dragao", "ATK":"2400", "DEF":"2000", "nivel": "7"}
+]
