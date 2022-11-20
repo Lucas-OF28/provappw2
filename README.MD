@@ -4,7 +4,6 @@ Projeto Desenvolvido Pelo Lucas Orestes Fabris
 Esse projeto é sobre o tema de Yu-Gi-Oh - Apresenta dados sobre algumas cartas
 
 Projeto postado em: https://github.com/Lucas-OF28/provappw2.git
-Projeto rodando em: https://dashboard.heroku.com/apps/recuperacaolucasfabris
 
 Neste Projeto foram implementadas três rotas get que foram propostas pelo professor mediador da disciplina de PPW II.
 
